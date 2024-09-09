@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @akos200813
-- 👀 I’m interested in rizz academy
-- 🌱 I’m currently learning rizz code
-- 💞️ I’m looking to collaborate on Sigma Inc.
-- 📫 How to reach me sigma@ligma.com
-- 😄 Pronouns: Sigma/Alpha
-- ⚡ Fun fact: I'm the rizzler
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on S
+- 📫 How to reach me 
+- 😄 Pronouns:
+- ⚡ Fun fact:
 
 <!---
 akos200813/akos200813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
